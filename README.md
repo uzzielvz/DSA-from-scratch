@@ -8,8 +8,8 @@ This repository contains from-scratch implementations of classic data structures
 DSA-from-scratch/
 │
 ├── arrays/
-│   ├── Array.java
-│   └── ArrayTest.java
+│   ├── DynamicArray.java
+│   └── DynamicArrayTest.java
 │
 ├── linkedlist/
 │   ├── LinkedList.java
