@@ -1,6 +1,6 @@
 # Data Structures in Java
 
-This repository contains from-scratch implementations of classic data structures in Java. The goal is to strengthen core fundamentals, improve problem-solving skills, and prepare for technical interviews.
+This repository contains from-scratch implementations of classic data structures in Java. The goal is to strengthen core fundamentals and improve problem-solving skills.
 
 ## Project Structure
 
