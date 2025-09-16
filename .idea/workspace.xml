@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1acca93e-2920-4b38-8ea2-0f7c51994990" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/arrays/DynamicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/arrays/DynamicArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/arrays/problems/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/arrays/problems/MaxConsecutiveOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/arrays/problems/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/arrays/problems/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/arrays/problems/SquaresOfSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/lib/junit-4.13.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-from-scratch.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/arrays/problems/FindNumbersWithEvenNumberOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/problems/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -110,7 +106,7 @@
       <workItem from="1757379968485" duration="1400000" />
       <workItem from="1757443955163" duration="3020000" />
       <workItem from="1757520476607" duration="27000" />
-      <workItem from="1758060305538" duration="936000" />
+      <workItem from="1758060305538" duration="1311000" />
     </task>
     <servers />
   </component>
