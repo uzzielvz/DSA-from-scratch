@@ -1,73 +1,88 @@
+import java.util.Arrays;
+
 /**
- * Solution class for LeetCode Problem #1295: Find Numbers with Even Number of Digits.
- * Counts how many numbers in an array have an even number of digits.
+ * Solution class for the classic Binary Search algorithm.
+ * This implementation provides a static method to find the index of an integer
+ * in a sorted array and includes a test client for a whitelist filtering application.
  *
- * Problem Number: 1295
- * Design Pattern: Mathematical Optimization vs String Conversion
+ * Design Pattern: Divide and Conquer
  *
- * Two approaches provided:
- * 1. Mathematical (Optimal): Uses log10 for O(1) digit counting per number
- * 2. String Conversion (Alternative): Converts to string and checks length
- *
- * The mathematical approach is preferred for interviews as it demonstrates
- * algorithmic thinking and avoids string creation overhead.
+ * The core logic is encapsulated in the rank() method, which efficiently locates
+ * a key by repeatedly dividing the search interval in half. The main() method
+ * serves as a practical example, demonstrating how binary search can be applied
+ * to solve real-world problems like filtering large datasets.
  */
-public class FindNumbersWithEvenDigits {
+public class BinarySearch {
 
     /**
-     * OPTIMAL SOLUTION: Uses logarithmic approach for efficient digit counting.
+     * OPTIMAL SOLUTION: Finds the index of a specified key in a sorted array.
+     * This method is the core implementation of the binary search algorithm.
      *
-     * Time Complexity: O(n) where n is array length
-     * Space Complexity: O(1) - no extra space used
+     * Pre-condition: The input array `a` must be sorted in ascending order.
      *
-     * @param nums Array of integers to analyze
-     * @return Count of numbers with even number of digits
+     * Time Complexity: O(log n) - In each step, the algorithm reduces the search
+     * space by half, making it extremely efficient for large arrays.
+     * Space Complexity: O(1) - The algorithm uses a constant amount of extra
+     * space regardless of the input array size.
+     *
+     * @param key The integer value to search for.
+     * @param a The sorted array of integers to be searched.
+     * @return The index of the key in the array if it is present; -1 otherwise.
      */
-    public int findNumbers(int[] nums) {
-        int count = 0;
+    public static int rank(int key, int[] a) {
+        int lo = 0;
+        int hi = a.length - 1;
 
-        for (int i = 0; i < nums.length; i++) {
-            if (numberOfDigits(nums[i]) % 2 == 0) {
-                count++;
+        // Loop continues as long as the search space [lo..hi] is not empty.
+        while (lo <= hi) {
+            // Calculate mid-point safely to prevent potential integer overflow.
+            int mid = lo + (hi - lo) / 2;
+
+            if (key < a[mid]) {
+                // Key is in the left half, so discard the right half.
+                hi = mid - 1;
+            } else if (key > a[mid]) {
+                // Key is in the right half, so discard the left half.
+                lo = mid + 1;
+            } else {
+                // Key found at the mid-point.
+                return mid;
             }
         }
-        return count;
+        // If the loop completes, the key was not found in the array.
+        return -1;
     }
 
     /**
-     * Calculates the number of digits using mathematical formula.
-     * For any positive integer n: digits = floor(log10(n)) + 1
+     * Development client and unit test for the Binary Search algorithm.
      *
-     * @param num The integer to count digits for
-     * @return Number of digits in the integer
+     * This main method implements a "whitelist filter." It reads a list of
+     * integers from a file specified as a command-line argument (the whitelist).
+     * It then reads integers from standard input and prints only those integers
+     * that do *not* appear in the whitelist file.
+     *
+     * Usage from command line:
+     * java BinarySearch whitelist.txt < keys.txt
+     *
+     * @param args Command-line arguments. args[0] is expected to be the
+     * filename of the whitelist.
      */
-    public int numberOfDigits(int num) {
-        if (num == 0) return 1;                    // Special case: zero has 1 digit
-        return (int) Math.log10(Math.abs(num)) + 1; // O(1) mathematical operation
-    }
+    public static void main(String[] args) {
+        // Read the whitelist file specified in the command-line argument.
+        int[] whitelist = In.readInts(args[0]);
 
-    /**
-     * ALTERNATIVE SOLUTION: Uses string conversion for digit counting.
-     *
-     * Time Complexity: O(n * m) where n is array length, m is average digits
-     * Space Complexity: O(m) for string creation per number
-     *
-     * Trade-offs:
-     * + Simpler to understand and implement
-     * - Creates temporary string objects (garbage collection overhead)
-     * - String conversion has hidden complexity
-     * - Less efficient for large datasets
-     *
-     * @param nums Array of integers to analyze
-     * @return Count of numbers with even number of digits
-     */
-    public int findNumbersStringApproach(int[] nums) {
-        int count = 0;
-        for (int num : nums) {
-            if (String.valueOf(num).length() % 2 == 0) { // String conversion approach
-                count++;
+        // IMPORTANT: The array must be sorted for binary search to work.
+        Arrays.sort(whitelist);
+
+        // Read integers from standard input until it is empty.
+        while (!StdIn.isEmpty()) {
+            int key = StdIn.readInt();
+
+            // Use the rank() method to check if the key is in the whitelist.
+            // If rank() returns a negative value, the key is not present.
+            if (rank(key, whitelist) < 0) {
+                StdOut.println(key);
             }
         }
-        return count;
     }
 }

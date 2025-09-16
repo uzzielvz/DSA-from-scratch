@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1acca93e-2920-4b38-8ea2-0f7c51994990" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithms/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/arrays/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/arrays/DynamicArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/arrays/problems/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/arrays/problems/MaxConsecutiveOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/arrays/problems/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/arrays/problems/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/arrays/problems/SquaresOfSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/lib/junit-4.13.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/problems/FindNumbersWithEvenNumberOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/problems/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2zhGXvx6v96W1xHEFvlJSR6GDkk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.DynamicArrayTest.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/uzzie/IdeaProjects/DSA-from-scratch/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="DynamicArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DSA-from-scratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arrays" />
+      <option name="MAIN_CLASS_NAME" value="arrays.DynamicArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DynamicArrayTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1acca93e-2920-4b38-8ea2-0f7c51994990" name="Changes" comment="" />
+      <created>1752175935926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752175935926</updated>
+      <workItem from="1752175937820" duration="6003000" />
+      <workItem from="1752612483289" duration="3412000" />
+      <workItem from="1754502290204" duration="608000" />
+      <workItem from="1754624515923" duration="147000" />
+      <workItem from="1755100602470" duration="145000" />
+      <workItem from="1757379968485" duration="1400000" />
+      <workItem from="1757443955163" duration="3020000" />
+      <workItem from="1757520476607" duration="27000" />
+      <workItem from="1758060305538" duration="936000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
