@@ -1,40 +1,155 @@
-# Data Structures in Java
+# Data Structures & Algorithms - FAANG Interview Prep
 
-This repository contains from-scratch implementations of classic data structures in Java. The goal is to strengthen core fundamentals and improve problem-solving skills.
+This repository contains from-scratch implementations of data structures and LeetCode problem solutions in Java. The goal is to prepare for FAANG interviews (target: July-August 2026 internship).
 
-## Project Structure
+## 🎯 Goal
+
+**Target:** FAANG internship for July-August 2026  
+**Commitment:** 200-250 LeetCode problems in ~270 days  
+**Current Progress:** 29 / 250 problems  
+**Started Tracking:** October 31, 2025
+
+## 📊 Quick Stats
+
+- **Total Problems:** 29
+- **Current Streak:** 2 days
+- **Patterns Covered:** Arrays, Hash Tables, Two Pointers, Binary Search, Stacks/Queues
+- **Critical Gaps:** Trees, Graphs, Dynamic Programming, Linked Lists
+
+## 📁 Project Structure
 
 ```
 DSA-from-scratch/
 │
 ├── arrays/
 │   ├── DynamicArray.java
-│   └── DynamicArrayTest.java
+│   ├── DynamicArrayTest.java
+│   └── problems/              # Array-based LeetCode problems
+│       ├── BinarySearch704.java
+│       ├── SearchInsertPosition35.java
+│       └── ... (14+ more)
 │
-├── linkedlist/
-│   ├── LinkedList.java
-│   └── LinkedListTest.java
+├── HashTable/problems/         # Hash table problems
+│   ├── TwoSum.java
+│   ├── ValidAnagram.java
+│   └── ...
 │
-├── stack/
-│   ├── Stack.java
-│   └── StackTest.java
+├── algorithms/
+│   ├── BinarySearch.java
+│   └── problems/
+│       └── ConvertaANumberToHexadecimal.java
 │
-├── queue/
+├── lists/                      # LinkedList implementations
+│   └── LinkedList.java
+│
+├── stack/                      # Stack implementations
+│   └── Stack.java
+│
+├── queue/                      # Queue implementations
 │   ├── Queue.java
-│   └── QueueTest.java
+│   └── problems/
+│       └── ValidParentheses.java
 │
-├── trees/
-│   ├── BinaryTree.java
-│   └── BinaryTreeTest.java
+├── lib/                        # Testing utilities
+│   ├── hamcrest-core-1.3.jar
+│   └── junit-4.13.2.jar
 │
-├── graph/
-│   ├── Graph.java
-│   └── GraphTest.java
-│
-├── lib/
-│   └── (utilities and shared classes for testing)
-│
-└── README.md
+├── COACH_RULES.md             # 🤖 AI Coach configuration & methodology
+├── PROGRESS_TRACKER.md         # 📈 Detailed progress tracking
+├── WEEKLY_PLAN.md             # 📅 Weekly goals and planning
+└── README.md                  # This file
 ```
 
-Each folder contains a specific data structure. Inside you'll find its core implementation and the corresponding unit test file.
+## 🚀 Current Focus
+
+**Week 1 (Oct 31 - Nov 6):** Binary Search pattern mastery  
+**Target:** 8-10 Binary Search problems  
+**Next Up:** Trees (URGENT - starting Week 2)
+
+## 📚 Documentation
+
+Each problem solution includes:
+- Problem number and title
+- Difficulty level
+- Design pattern used
+- Detailed solution approach
+- Time and space complexity analysis
+- Well-commented code
+
+### Example:
+```java
+/**
+ * Solution class for LeetCode Problem #704: Binary Search
+ * Problem Number: 704
+ * Difficulty: Easy
+ * Design Pattern: Binary Search (Two Pointers)
+ * Time complexity: O(log n)
+ * Space complexity: O(1)
+ */
+```
+
+## 📈 Tracking Files
+
+### 🤖 COACH_RULES.md
+Contains AI coaching methodology, learning curriculum, and communication guidelines. Read this first when context resets.
+
+### 📊 PROGRESS_TRACKER.md
+Detailed tracking of:
+- All problems solved (with dates and times)
+- Pattern mastery status
+- Weekly velocity
+- Critical gaps analysis
+- Next session plans
+
+### 📅 WEEKLY_PLAN.md
+Weekly goals, daily breakdowns, and monthly roadmap.
+
+## 🎯 Learning Phases
+
+### Phase 1: Fundamentals (Months 1-3)
+- Arrays & Strings, Hash Tables
+- Binary Search, Sorting
+- Linked Lists, Stacks & Queues
+- **Current:** Binary Search (Week 1)
+
+### Phase 2: Intermediate (Months 4-6)
+- Trees & Graphs
+- Dynamic Programming
+- Advanced patterns
+
+### Phase 3: Advanced (Months 7-9)
+- System Design basics
+- Hard problems
+- Mock interviews
+
+## 🔥 Commitment
+
+**Schedule:**
+- Monday-Friday: 1 hour daily minimum
+- Saturday-Sunday: 2 hours daily
+- **Total:** 9 hours/week
+
+**Target Pace:** 6-7 problems per week
+
+## 🏆 Milestones
+
+- [x] Started tracking system (Oct 31, 2025)
+- [x] First Binary Search problem solved
+- [ ] 7 consecutive days
+- [ ] 50 total problems
+- [ ] First tree problem
+- [ ] 100 total problems
+- [ ] First Hard problem solved
+- [ ] 200 problems (interview ready)
+
+## 🛠️ Technologies
+
+- **Language:** Java
+- **IDE:** IntelliJ IDEA
+- **Testing:** JUnit 4.13.2
+- **Platform:** LeetCode
+
+---
+
+**Last Updated:** October 31, 2025  
+**For coaching context:** See `COACH_RULES.md` first
