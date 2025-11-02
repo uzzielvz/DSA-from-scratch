@@ -42,27 +42,14 @@
 
 ---
 
-#### Saturday, Nov 1 (PLANNED)
-**Time:** 2 hours  
-**Focus:** Binary Search variations
+#### Saturday, Nov 1 (COMPLETED - LIGHT DAY)
+**Time:** ~20 minutes  
+**Focus:** Binary Search (numeric)
 
-**Target Problems:**
-1. [ ] #278 - First Bad Version (Easy)
-   - Binary search in different context (API calls)
-   - Practice pattern recognition
+**Done:**
+- [x] #367 - Valid Perfect Square (Easy)
 
-2. [ ] #69 - Sqrt(x) (Easy)
-   - Numeric binary search (not array-based)
-   - Challenges: defining search space
-
-3. [ ] #153 - Find Minimum in Rotated Sorted Array (Medium)
-   - Level up to Medium
-   - Binary search with twist
-
-**Goals:**
-- Solve at least 2 out of 3
-- If stuck >20 min on Medium, skip and return later
-- Document all completed solutions
+**Notes:** Día pesado de trabajo. Se mantuvo el streak con review y un problema easy. Mediums se pasan a mañana.
 
 ---
 
@@ -79,7 +66,7 @@
    - Binary search variation
    - Finding range instead of single element
 
-3. [ ] Review + Consolidate
+3. [ ] Review + Consolidate (incluye repasar #367 brevemente)
    - Review all Binary Search problems solved
    - Identify common patterns
    - Practice explaining approach

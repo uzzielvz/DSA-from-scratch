@@ -67,6 +67,18 @@
 
 ---
 
+#### Saturday, November 1, 2025
+**Session Time:** ~20 minutes  
+**Pattern Focus:** Binary Search (numeric range)
+
+| # | Problem | Difficulty | Pattern | Time | Status | Notes |
+|---|---------|------------|---------|------|--------|-------|
+| 367 | Valid Perfect Square | Easy | Binary Search | ~15-20 min | ✅ Solved | Binary search on [1, num/2]. Avoided overflow using division: compare q = num/mid with mid and confirm with num % mid == 0. Will review logic fresh tomorrow. |
+
+**Light Day:** Tired from work; kept streak with quick review and one easy problem.
+
+---
+
 ## Pattern Mastery Status
 
 ### ✅ Comfortable (Can solve Easy in <20 min)
