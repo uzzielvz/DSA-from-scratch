@@ -53,43 +53,38 @@
 
 ---
 
-#### Sunday, Nov 2 (PLANNED)
+#### Sunday, Nov 2 (COMPLETED)
 **Time:** 2 hours  
 **Focus:** Binary Search Medium problems
 
-**Target Problems:**
-1. [ ] #33 - Search in Rotated Sorted Array (Medium)
-   - Classic rotated array problem
-   - Common in interviews
+**Done:**
+- [x] #33 - Search in Rotated Sorted Array (Medium) - ~1.5-2 hrs
+- [x] #367 - Valid Perfect Square (review & consolidate) - ~20 min
 
-2. [ ] #34 - Find First and Last Position (Medium)
-   - Binary search variation
-   - Finding range instead of single element
+**Notes:** 
+- First Medium problem solved! Took ~2 hours (normal for first time)
+- Reviewed and fixed #367 logic from yesterday
+- Strong understanding of Binary Search template now
+- Ready to continue with more variations
 
-3. [ ] Review + Consolidate (incluye repasar #367 brevemente)
-   - Review all Binary Search problems solved
-   - Identify common patterns
-   - Practice explaining approach
-
-**Goals:**
-- Attempt both Medium problems
-- Focus on understanding, not just solving
-- Create mental template for Binary Search
+**Result:** Excellent progress. First Medium conquered. 3-day streak maintained.
 
 ---
 
 #### Monday, Nov 3 (PLANNED)
 **Time:** 1 hour  
-**Focus:** Binary Search + Review
+**Focus:** Binary Search continuation
 
 **Target:**
-- [ ] 1-2 more Binary Search problems (Easy/Medium mix)
-- [ ] Quick review of weekend problems
-- [ ] Start thinking about next pattern (Trees or Linked Lists)
+- [ ] #34 - Find First and Last Position (Medium) - moved from Sunday
+  OR
+- [ ] #278 - First Bad Version (Easy) - different context
+- [ ] Quick review of #33 (rotated array pattern)
 
-**Suggested Problems:**
-- #74 - Search a 2D Matrix (Medium)
-- #367 - Valid Perfect Square (Easy)
+**Suggested approach:**
+- If feeling confident: tackle #34 (Medium, similar to what you know)
+- If want variety: #278 (Easy, API call context) + start thinking Trees
+- Either way: 1-2 problems to continue Binary Search mastery
 
 ---
 

@@ -9,22 +9,22 @@
 
 ## Current Stats
 
-- **Total Problems Solved:** 29 / 250
-- **Current Streak:** 2 days (Oct 30-31)
-- **Longest Streak:** TBD
-- **Average Problems/Week:** ~6-7 (projected)
-- **Total Hours Invested:** ~2 hours (tracking started today)
+- **Total Problems Solved:** 31 / 250
+- **Current Streak:** 3 days (Oct 31 - Nov 2) ✅
+- **Longest Streak:** 3 days
+- **Average Problems/Week:** ~6-7 (on track)
+- **Total Hours Invested:** ~4.5 hours (tracking started Oct 31)
 
 ### By Difficulty
-- **Easy:** 27
-- **Medium:** 2
+- **Easy:** 28
+- **Medium:** 3
 - **Hard:** 0
 
 ### By Pattern
 - **Arrays/Strings:** 12
 - **Hash Tables:** 2
 - **Two Pointers:** 4
-- **Binary Search:** 2 ✅ (Started Oct 31)
+- **Binary Search:** 4 ✅ (Started Oct 31, need 4-6 more to master)
 - **Linked Lists:** 0
 - **Stacks/Queues:** 1
 - **Trees:** 0 🚨 CRITICAL
@@ -79,6 +79,33 @@
 
 ---
 
+#### Sunday, November 2, 2025
+**Session Time:** ~2 hours  
+**Pattern Focus:** Binary Search (Medium - rotated arrays)
+
+| # | Problem | Difficulty | Pattern | Time | Status | Notes |
+|---|---------|------------|---------|------|--------|-------|
+| 33 | Search in Rotated Sorted Array | Medium | Binary Search | ~1.5-2 hrs | ✅ Solved | First Medium Binary Search. Struggled with: identifying sorted half and deciding target range. Key insight: one half always sorted; check if target in sorted half's range. Major learning curve but resolved independently with guidance. |
+| 367 | Valid Perfect Square (review) | Easy | Binary Search | ~20 min | ✅ Consolidated | Reviewed and debugged logic from yesterday. Fixed branch conditions (q < mid vs q > mid). Now fully understood: division avoids overflow, modulo confirms exact square. |
+
+**Key Learnings:**
+- Rotated array: always one half is sorted (compare nums[left] with nums[mid])
+- Check target against sorted half's range to decide which way to search
+- Must check `nums[mid] == target` BEFORE all range comparisons
+- Division-based comparisons prevent integer overflow in numeric binary search
+
+**Wins:**
+- First Medium problem solved (challenging but completed)
+- Debugged #367 independently after review
+- Maintained 3-day streak despite difficulty
+
+**Areas to Improve:**
+- Medium problems take 1.5-2 hours (expected for now, will improve with practice)
+- Need to internalize "check sorted half range" pattern for rotated arrays
+- Working memory juggling multiple conditions simultaneously (improves with repetition)
+
+---
+
 ## Pattern Mastery Status
 
 ### ✅ Comfortable (Can solve Easy in <20 min)
@@ -87,7 +114,7 @@
 - Two Pointers (basic)
 
 ### 🔄 Learning (Started, need more practice)
-- **Binary Search** - 2 problems, need 6-8 more to master
+- **Binary Search** - 4 problems (2 Easy, 1 Medium rotated, 1 Easy consolidated), need 4-6 more to master
 
 ### ❌ Not Started (CRITICAL to address)
 - **Trees** - 0 problems (URGENT: ~40% of FAANG interviews)
@@ -107,7 +134,7 @@
 
 | Week | Start Date | Problems | Hours | Patterns Covered | Notes |
 |------|------------|----------|-------|------------------|-------|
-| 1 | Oct 31 | 2 | ~1 | Binary Search (new) | Strong start, good debugging |
+| 1 | Oct 31 | 4 (so far) | ~4.5 | Binary Search (new) | Strong start, first Medium solved, 3-day streak |
 
 ---
 
