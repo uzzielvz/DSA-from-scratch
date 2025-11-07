@@ -9,22 +9,22 @@
 
 ## Current Stats
 
-- **Total Problems Solved:** 32 / 250 (1 low quality)
-- **Current Streak:** 4 days (Oct 31 - Nov 3) ✅
-- **Longest Streak:** 4 days
-- **Average Problems/Week:** ~7-8 (on track)
-- **Total Hours Invested:** ~5 hours (tracking started Oct 31)
+- **Total Problems Solved:** 33 / 250
+- **Current Streak:** 1 day (restarted Nov 7 after break)
+- **Longest Streak:** 5 days (Oct 31 - Nov 4)
+- **Average Problems/Week:** ~6-7 (on track despite mid-week break)
+- **Total Hours Invested:** ~6.5 hours (tracking started Oct 31)
 
 ### By Difficulty
-- **Easy:** 29 (1 needs re-solving)
-- **Medium:** 3
+- **Easy:** 29
+- **Medium:** 4
 - **Hard:** 0
 
 ### By Pattern
 - **Arrays/Strings:** 12
 - **Hash Tables:** 2
 - **Two Pointers:** 4
-- **Binary Search:** 5 ✅ (Started Oct 31, 1 needs validation, need 3-5 more to master)
+- **Binary Search:** 6 ✅ (Started Oct 31, need 2-4 more to master)
 - **Linked Lists:** 0
 - **Stacks/Queues:** 1
 - **Trees:** 0 🚨 CRITICAL
@@ -121,10 +121,67 @@
 - Technically maintained streak, but low learning value
 - Must re-solve tomorrow without assistance to validate
 
-**Action Items for Tomorrow:**
-- Re-solve #278 independently (should take 5-10 min if understood)
-- Review #33 and #367 properly
-- Fresh problem with clear head
+---
+
+#### Tuesday, November 4, 2025
+**Session Time:** ~10 minutes (validation session)  
+**Pattern Focus:** Binary Search validation
+
+| # | Problem | Difficulty | Pattern | Time | Status | Notes |
+|---|---------|------------|---------|------|--------|-------|
+| 278 | First Bad Version (re-solve) | Easy | Binary Search | ~8 min | ✅ Validated | Re-solved independently without looking at solution. Code correct on first try. Proved that Monday's learning DID stick despite exhaustion. Brain processed info during sleep. |
+
+**Key Learning:**
+- Learning happens even when exhausted
+- Sleep consolidates memory
+- Re-validation confirmed understanding
+
+---
+
+#### Wednesday, November 5, 2025
+**Session Time:** Minimal/review only  
+**Status:** ⚠️ Low quality day
+
+**Reality:** Minimal work, mostly review. Low engagement.
+
+---
+
+#### Thursday, November 6, 2025
+**Session Time:** None  
+**Status:** ❌ FAILED - No practice
+
+**Streak broken:** 5 days → 0
+
+---
+
+#### Friday, November 7, 2025
+**Session Time:** ~1.5 hours  
+**Pattern Focus:** Binary Search (double search - leftmost/rightmost)
+
+| # | Problem | Difficulty | Pattern | Time | Status | Notes |
+|---|---------|------------|---------|------|--------|-------|
+| 278 | First Bad Version (validation) | Easy | Binary Search | ~8 min | ✅ Re-validated | Confirmed understanding from earlier in week. |
+| 34 | Find First and Last Position | Medium | Binary Search (2x) | ~60 min | ✅ Solved | Challenging Medium requiring TWO binary searches. Needed detailed guidance on approach but implemented independently. Key insight: save candidate and continue searching left/right. Strong learning session with coaching on solution explanation. |
+
+**Key Learnings:**
+- Double binary search pattern: one for leftmost, one for rightmost occurrence
+- When nums[mid] == target, don't return immediately - save and continue searching
+- Initialize result variables to -1 for natural edge case handling
+- Importance of clear solution explanation structure for interviews
+
+**Wins:**
+- Restarted after 2-day break (Thu failed, Wed minimal)
+- Tackled challenging Medium with solid understanding
+- Accepted feedback on explanation skills
+- Back on track for Week 1 goals
+
+**Areas to Improve:**
+- Solution explanation structure (needs work for FAANG interviews)
+- Consistency (broke 5-day streak, need to rebuild)
+- Speaking more slowly and clearly when explaining
+
+**Commitment Made:**
+- Re-validate #33 (Search in Rotated Sorted Array) this weekend
 
 ---
 
@@ -136,7 +193,7 @@
 - Two Pointers (basic)
 
 ### 🔄 Learning (Started, need more practice)
-- **Binary Search** - 5 problems (3 Easy + 1 to re-validate, 1 Medium rotated, 1 Easy consolidated), need 3-5 more to master
+- **Binary Search** - 6 problems (3 Easy validated, 2 Medium including double search, 1 needs weekend review), need 2-4 more to master
 
 ### ❌ Not Started (CRITICAL to address)
 - **Trees** - 0 problems (URGENT: ~40% of FAANG interviews)
@@ -156,23 +213,27 @@
 
 | Week | Start Date | Problems | Hours | Patterns Covered | Notes |
 |------|------------|----------|-------|------------------|-------|
-| 1 | Oct 31 | 5 (1 low quality) | ~5 | Binary Search (new) | Strong start, first Medium solved, 4-day streak maintained, 1 problem needs re-validation |
+| 1 | Oct 31 | 6 | ~6.5 | Binary Search (new) | Strong start with 2 Mediums solved. Mid-week break (Wed-Thu) but recovered Friday. Learned double binary search pattern. Need to improve consistency. |
 
 ---
 
 ## Milestones
 
 ### 🎯 Upcoming Milestones
-- [ ] 7 consecutive days of practice
-- [ ] 50 total problems (21 to go)
-- [ ] First Medium Binary Search problem
-- [ ] Start Trees (URGENT - by Week 3)
-- [ ] 10 Binary Search problems (pattern mastery)
+- [ ] 7 consecutive days of practice (restart needed after Thu break)
+- [ ] 50 total problems (17 to go)
+- [x] First Medium Binary Search problem (#33)
+- [x] Second Medium Binary Search problem (#34)
+- [ ] Start Trees (URGENT - by Week 2/3)
+- [ ] 10 Binary Search problems (pattern mastery - 6/10 done)
 
 ### ✅ Completed Milestones
 - [x] Started tracking progress (Oct 31, 2025)
 - [x] First Binary Search problem solved
 - [x] Independently debugged and fixed code
+- [x] First Medium problem solved (#33 - Oct 2)
+- [x] Second Medium problem solved (#34 - Nov 7)
+- [x] 5-day streak achieved (broken, need to rebuild)
 
 ---
 
