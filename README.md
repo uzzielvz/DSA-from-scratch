@@ -6,13 +6,13 @@ This repository contains from-scratch implementations of data structures and Lee
 
 **Target:** FAANG internship for July-August 2026  
 **Commitment:** 200-250 LeetCode problems in ~270 days  
-**Current Progress:** 33 / 250 problems  
+**Current Progress:** 34 / 250 problems  
 **Started Tracking:** October 31, 2025
 
 ## 📊 Quick Stats
 
-- **Total Problems:** 33
-- **Current Streak:** 1 day (restarted Nov 7)
+- **Total Problems:** 34
+- **Current Streak:** 1 day (Nov 9, after Sat break)
 - **Patterns Covered:** Arrays, Hash Tables, Two Pointers, Binary Search, Stacks/Queues
 - **Critical Gaps:** Trees, Graphs, Dynamic Programming, Linked Lists
 
@@ -62,9 +62,9 @@ DSA-from-scratch/
 
 ## 🚀 Current Focus
 
-**Week 1 (Oct 31 - Nov 7):** Binary Search pattern mastery  
-**Progress:** 6 / 8-10 Binary Search problems (on track, need 2-4 more)  
-**Next Up:** Finish Binary Search mastery, start Trees (Week 2)
+**Week 1 (Oct 31 - Nov 9):** Binary Search pattern mastery  
+**Progress:** 7 / 8-10 Binary Search problems (nearly complete, need 1-3 more)  
+**Next Up:** Complete Binary Search, start Trees (this week)
 
 ## 📚 Documentation
 

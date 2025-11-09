@@ -9,22 +9,22 @@
 
 ## Current Stats
 
-- **Total Problems Solved:** 33 / 250
-- **Current Streak:** 1 day (restarted Nov 7 after break)
+- **Total Problems Solved:** 34 / 250
+- **Current Streak:** 1 day (Nov 9, after Sat break)
 - **Longest Streak:** 5 days (Oct 31 - Nov 4)
-- **Average Problems/Week:** ~6-7 (on track despite mid-week break)
-- **Total Hours Invested:** ~6.5 hours (tracking started Oct 31)
+- **Average Problems/Week:** ~7-8 (strong pace despite consistency issues)
+- **Total Hours Invested:** ~7.5 hours (tracking started Oct 31)
 
 ### By Difficulty
-- **Easy:** 29
-- **Medium:** 4
+- **Easy:** 30
+- **Medium:** 4 (2 validated multiple times)
 - **Hard:** 0
 
 ### By Pattern
 - **Arrays/Strings:** 12
 - **Hash Tables:** 2
 - **Two Pointers:** 4
-- **Binary Search:** 6 ✅ (Started Oct 31, need 2-4 more to master)
+- **Binary Search:** 7 ✅ (Started Oct 31, getting close to mastery - need 1-3 more)
 - **Linked Lists:** 0
 - **Stacks/Queues:** 1
 - **Trees:** 0 🚨 CRITICAL
@@ -185,6 +185,41 @@
 
 ---
 
+#### Saturday, November 8, 2025
+**Session Time:** None  
+**Status:** ❌ FAILED - No practice (lack of time)
+
+**Reason:** Time management issues, but organizational adjustments made.
+
+---
+
+#### Sunday, November 9, 2025
+**Session Time:** ~1 hour (started 6:49 AM)  
+**Pattern Focus:** Binary Search (re-validation + numeric search)
+
+| # | Problem | Difficulty | Pattern | Time | Status | Notes |
+|---|---------|------------|---------|------|--------|-------|
+| 33 | Search in Rotated Sorted Array (re-validation) | Medium | Binary Search | ~15-20 min | ✅ Validated | Successfully re-solved without assistance. Corrected the bug from last attempt: proper condition `target >= nums[left] && target < nums[mid]` when left side is sorted. Strong understanding confirmed. |
+| 69 | Sqrt(x) | Easy | Binary Search | ~20-25 min | ✅ Solved | Numeric binary search. Applied division technique to avoid overflow: `mid <= x/mid` instead of `mid*mid <= x`. Pattern recognition working - immediately identified as binary search variant. Clean implementation with proper edge case handling. |
+
+**Key Learnings:**
+- Rotated array pattern now solid: detect sorted half first, then check if target in range
+- Numeric binary search reinforced: division prevents overflow in comparisons
+- Early morning practice (6:49 AM) = excellent focus and execution
+- Pattern recognition improving: immediately saw #69 as binary search
+
+**Wins:**
+- Organizational adjustment working (early morning practice)
+- Successfully completed commitment from Friday (#33 re-validation)
+- Two problems solved efficiently with minimal guidance
+- Streak restarted after Saturday miss
+
+**Areas Still Improving:**
+- Retention between sessions (normal for Week 1-2 of learning)
+- Need more pattern variety (Trees still pending)
+
+---
+
 ## Pattern Mastery Status
 
 ### ✅ Comfortable (Can solve Easy in <20 min)
@@ -193,7 +228,7 @@
 - Two Pointers (basic)
 
 ### 🔄 Learning (Started, need more practice)
-- **Binary Search** - 6 problems (3 Easy validated, 2 Medium including double search, 1 needs weekend review), need 2-4 more to master
+- **Binary Search** - 7 problems (4 Easy including numeric, 2 Medium both validated, 1 rotated array mastered), need 1-3 more to complete mastery
 
 ### ❌ Not Started (CRITICAL to address)
 - **Trees** - 0 problems (URGENT: ~40% of FAANG interviews)
@@ -213,19 +248,19 @@
 
 | Week | Start Date | Problems | Hours | Patterns Covered | Notes |
 |------|------------|----------|-------|------------------|-------|
-| 1 | Oct 31 | 6 | ~6.5 | Binary Search (new) | Strong start with 2 Mediums solved. Mid-week break (Wed-Thu) but recovered Friday. Learned double binary search pattern. Need to improve consistency. |
+| 1 | Oct 31 | 7 | ~7.5 | Binary Search (new) | Strong week: 2 Mediums solved, 1 re-validated multiple times. Mid-week consistency issues but strong recovery. Binary Search pattern nearly mastered. Early morning practice working well. |
 
 ---
 
 ## Milestones
 
 ### 🎯 Upcoming Milestones
-- [ ] 7 consecutive days of practice (restart needed after Thu break)
-- [ ] 50 total problems (17 to go)
-- [x] First Medium Binary Search problem (#33)
+- [ ] 7 consecutive days of practice (restart needed after Sat break)
+- [ ] 50 total problems (16 to go)
+- [x] First Medium Binary Search problem (#33 - multiple validations)
 - [x] Second Medium Binary Search problem (#34)
-- [ ] Start Trees (URGENT - by Week 2/3)
-- [ ] 10 Binary Search problems (pattern mastery - 6/10 done)
+- [ ] Start Trees (URGENT - this week)
+- [ ] 10 Binary Search problems (pattern mastery - 7/10 done, very close)
 
 ### ✅ Completed Milestones
 - [x] Started tracking progress (Oct 31, 2025)
