@@ -146,6 +146,27 @@
 
 ---
 
+#### Monday, Nov 10 (FAILED)
+**Time:** None  
+**Status:** ❌ No practice
+
+**Reason:** Dopamine distractions + urgent work. Morning slot desaprovechado.
+
+---
+
+#### Tuesday, Nov 11 (COMPLETED - REINFORCEMENT)
+**Time:** ~55 min (6:35 AM - 7:30 AM)  
+**Focus:** Binary Search reinforcement (weak spots)
+
+**Done:**
+- [x] #367 - Valid Perfect Square (re-validation) - 17 min
+- [x] #33 - Search in Rotated Sorted Array (re-validation) - 20 min
+- [x] Review rápido de ambos patrones
+
+**Result:** Problemas con 5/10 de dominio subieron a 8/10. Mañanas tempranas vuelven a funcionar.
+
+---
+
 ### Week 1 Success Criteria
 
 **Must Complete:**

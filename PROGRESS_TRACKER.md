@@ -10,10 +10,10 @@
 ## Current Stats
 
 - **Total Problems Solved:** 34 / 250
-- **Current Streak:** 1 day (Nov 9, after Sat break)
+- **Current Streak:** 1 day (Nov 11, after Mon miss)
 - **Longest Streak:** 5 days (Oct 31 - Nov 4)
 - **Average Problems/Week:** ~7-8 (strong pace despite consistency issues)
-- **Total Hours Invested:** ~7.5 hours (tracking started Oct 31)
+- **Total Hours Invested:** ~9.4 hours (tracking started Oct 31)
 
 ### By Difficulty
 - **Easy:** 30
@@ -194,8 +194,8 @@
 ---
 
 #### Sunday, November 9, 2025
-**Session Time:** ~1 hour (started 6:49 AM)  
-**Pattern Focus:** Binary Search (re-validation + numeric search)
+**Session Time:** 1h 35min (6:49 AM - 8:24 AM)  
+**Pattern Focus:** Binary Search (re-validation + numeric search + review)
 
 | # | Problem | Difficulty | Pattern | Time | Status | Notes |
 |---|---------|------------|---------|------|--------|-------|
@@ -209,14 +209,47 @@
 - Pattern recognition improving: immediately saw #69 as binary search
 
 **Wins:**
-- Organizational adjustment working (early morning practice)
+- Organizational adjustment working perfectly (early morning practice)
 - Successfully completed commitment from Friday (#33 re-validation)
 - Two problems solved efficiently with minimal guidance
+- Comprehensive review of all 7 Binary Search problems completed
+- Self-assessment identified areas needing reinforcement
 - Streak restarted after Saturday miss
 
-**Areas Still Improving:**
-- Retention between sessions (normal for Week 1-2 of learning)
-- Need more pattern variety (Trees still pending)
+**Self-Assessment Results (end of Sunday):**
+- Strong mastery (8-9/10): #704, #35, #69 (3 problems)
+- Good understanding (7/10): #278, #34 (2 problems)  
+- Need reinforcement (5/10): #33, #367 (2 problems)
+
+**Next Actions Identified:**
+- Reinforce #33 (rotated array logic) and #367 (division/modulo)
+- Complete Binary Search mastery before starting Trees
+
+---
+
+#### Tuesday, November 11, 2025
+**Session Time:** ~55 min (6:35 AM - 7:30 AM)  
+**Pattern Focus:** Binary Search reinforcement
+
+| # | Problem | Difficulty | Pattern | Time | Status | Notes |
+|---|---------|------------|---------|------|--------|-------|
+| 367 | Valid Perfect Square (re-validation) | Easy | Binary Search | ~17 min | ✅ Re-validated | Implemented division check `mid <= num/mid` plus modulo confirmation. Logic now feels natural. |
+| 33 | Search in Rotated Sorted Array (re-validation) | Medium | Binary Search | ~20 min | ✅ Re-validated | Fixed earlier mistake (comparing mid index with target). Clean implementation with correct sorted-half detection. |
+
+**Key Learnings:**
+- Overflow-safe division and modulo pattern is now automatic for numeric Binary Search.
+- Rotated array template memorized: detect sorted half first, then apply range check.
+- Morning focus works even after difficult days.
+
+**Wins:**
+- Bounced back immediately after Monday miss.
+- Both 5/10 problems upgraded to 8/10 confidence.
+- No external help required; self-debugged issues quickly.
+
+**Updated Self-Assessment (Binary Search):**
+- 8-9/10: #704, #35, #69, #367
+- 7-8/10: #278, #34, #33
+- Remaining tasks: finish 1-3 new Binary Search problems this week, then move to Trees.
 
 ---
 
