@@ -155,7 +155,7 @@
 ---
 
 #### Tuesday, Nov 11 (COMPLETED - REINFORCEMENT)
-**Time:** ~55 min (6:35 AM - 7:30 AM)  
+**Time:** ~55 min (6:35 PM - 7:30 PM)  
 **Focus:** Binary Search reinforcement (weak spots)
 
 **Done:**
@@ -163,7 +163,7 @@
 - [x] #33 - Search in Rotated Sorted Array (re-validation) - 20 min
 - [x] Review rápido de ambos patrones
 
-**Result:** Problemas con 5/10 de dominio subieron a 8/10. Mañanas tempranas vuelven a funcionar.
+**Result:** Problemas con 5/10 de dominio subieron a 8/10. Bloque vespertino volvió a funcionar.
 
 ---
 

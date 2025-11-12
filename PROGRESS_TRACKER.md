@@ -228,7 +228,7 @@
 ---
 
 #### Tuesday, November 11, 2025
-**Session Time:** ~55 min (6:35 AM - 7:30 AM)  
+**Session Time:** ~55 min (6:35 PM - 7:30 PM)  
 **Pattern Focus:** Binary Search reinforcement
 
 | # | Problem | Difficulty | Pattern | Time | Status | Notes |
@@ -239,7 +239,7 @@
 **Key Learnings:**
 - Overflow-safe division and modulo pattern is now automatic for numeric Binary Search.
 - Rotated array template memorized: detect sorted half first, then apply range check.
-- Morning focus works even after difficult days.
+- Evening focus works even after difficult days.
 
 **Wins:**
 - Bounced back immediately after Monday miss.
