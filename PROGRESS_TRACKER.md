@@ -9,11 +9,11 @@
 
 ## Current Stats
 
-- **Total Problems Solved:** 34 / 250
+- **Total Problems Solved:** 35 / 250
 - **Current Streak:** 1 day (Nov 11, after Mon miss)
 - **Longest Streak:** 5 days (Oct 31 - Nov 4)
 - **Average Problems/Week:** ~7-8 (strong pace despite consistency issues)
-- **Total Hours Invested:** ~9.4 hours (tracking started Oct 31)
+- **Total Hours Invested:** ~10.2 hours (tracking started Oct 31)
 
 ### By Difficulty
 - **Easy:** 30
@@ -249,7 +249,30 @@
 **Updated Self-Assessment (Binary Search):**
 - 8-9/10: #704, #35, #69, #367
 - 7-8/10: #278, #34, #33
-- Remaining tasks: finish 1-3 new Binary Search problems this week, then move to Trees.
+- Remaining tasks: finish 1-2 new Binary Search problems this week, then move to Trees.
+
+---
+
+#### Tuesday, November 11, 2025 (Session 2)
+**Session Time:** ~45 min (10:10 AM - 10:55 AM)  
+**Pattern Focus:** Binary Search (numeric)
+
+| # | Problem | Difficulty | Pattern | Time | Status | Notes |
+|---|---------|------------|---------|------|--------|-------|
+| 441 | Arranging Coins | Easy | Binary Search | ~35 min | ✅ Solved | Aplicó binary search en rango numérico. Usó long para evitar overflow y comparó mid*(mid+1)/2 con n. Necesita reforzar intuición de la sumatoria triangular, pero implementó correctamente. |
+
+**Key Learnings:**
+- La suma de las primeras k filas es k*(k+1)/2; comparar contra n guía el binary search.
+- Usar long evita overflow al multiplicar grandes mid.
+- Incluso con prisa, el razonamiento puede completarse si aseguras el bloque de tiempo.
+
+**Wins:**
+- Aprovechó tiempo libre en la universidad en vez de procrastinar.
+- Nuevo problema añadido, acercándose a mastery de Binary Search.
+- Identificó debilidad conceptual (intuir la fórmula) para repasar luego con calma.
+
+**Areas to Revisit:**
+- Reforzar intuición de sumatoria triangular cuando tenga más tiempo/descanso.
 
 ---
 
@@ -261,7 +284,7 @@
 - Two Pointers (basic)
 
 ### 🔄 Learning (Started, need more practice)
-- **Binary Search** - 7 problems (4 Easy including numeric, 2 Medium both validated, 1 rotated array mastered), need 1-3 more to complete mastery
+- **Binary Search** - 8 problems (5 Easy including numeric variants, 2 Medium validados, 1 rotated array dominado), need 0-2 más para cerrar mastery
 
 ### ❌ Not Started (CRITICAL to address)
 - **Trees** - 0 problems (URGENT: ~40% of FAANG interviews)

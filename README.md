@@ -11,7 +11,7 @@ This repository contains from-scratch implementations of data structures and Lee
 
 ## 📊 Quick Stats
 
-- **Total Problems:** 34
+- **Total Problems:** 35
 - **Current Streak:** 1 day (Nov 11, after Mon miss)
 - **Patterns Covered:** Arrays, Hash Tables, Two Pointers, Binary Search, Stacks/Queues
 - **Critical Gaps:** Trees, Graphs, Dynamic Programming, Linked Lists

@@ -162,8 +162,9 @@
 - [x] #367 - Valid Perfect Square (re-validation) - 17 min
 - [x] #33 - Search in Rotated Sorted Array (re-validation) - 20 min
 - [x] Review rápido de ambos patrones
+- [x] #441 - Arranging Coins (Easy) - 35 min (sesión extra 10:10-10:55 AM)
 
-**Result:** Problemas con 5/10 de dominio subieron a 8/10. Bloque vespertino volvió a funcionar.
+**Result:** Problemas con 5/10 de dominio subieron a 8/10. Bloque vespertino volvió a funcionar. Falta reforzar intuición de la fórmula triangular en #441.
 
 ---
 
