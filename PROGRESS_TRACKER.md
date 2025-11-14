@@ -10,21 +10,21 @@
 ## Current Stats
 
 - **Total Problems Solved:** 35 / 250
-- **Current Streak:** 1 day (Nov 11, after Mon miss)
+- **Current Streak:** 2 days (Nov 12-13, after Monday miss)
 - **Longest Streak:** 5 days (Oct 31 - Nov 4)
 - **Average Problems/Week:** ~7-8 (strong pace despite consistency issues)
-- **Total Hours Invested:** ~10.2 hours (tracking started Oct 31)
+- **Total Hours Invested:** ~11 hours (tracking started Oct 31)
 
 ### By Difficulty
-- **Easy:** 30
-- **Medium:** 4 (2 validated multiple times)
+- **Easy:** 31
+- **Medium:** 5 (3 validated multiple times)
 - **Hard:** 0
 
 ### By Pattern
 - **Arrays/Strings:** 12
 - **Hash Tables:** 2
 - **Two Pointers:** 4
-- **Binary Search:** 7 ✅ (Started Oct 31, getting close to mastery - need 1-3 more)
+- **Binary Search:** 9 ✅ (MASTERY COMPLETE - Started Oct 31, all core variations covered)
 - **Linked Lists:** 0
 - **Stacks/Queues:** 1
 - **Trees:** 0 🚨 CRITICAL
@@ -227,35 +227,58 @@
 
 ---
 
-#### Tuesday, November 11, 2025
-**Session Time:** ~55 min (6:35 PM - 7:30 PM)  
-**Pattern Focus:** Binary Search reinforcement
+#### Wednesday, November 12, 2025
+**Session Time:** ~45 min (10:10 AM - 10:55 AM)  
+**Pattern Focus:** Binary Search (numeric)
 
 | # | Problem | Difficulty | Pattern | Time | Status | Notes |
 |---|---------|------------|---------|------|--------|-------|
-| 367 | Valid Perfect Square (re-validation) | Easy | Binary Search | ~17 min | ✅ Re-validated | Implemented division check `mid <= num/mid` plus modulo confirmation. Logic now feels natural. |
-| 33 | Search in Rotated Sorted Array (re-validation) | Medium | Binary Search | ~20 min | ✅ Re-validated | Fixed earlier mistake (comparing mid index with target). Clean implementation with correct sorted-half detection. |
+| 441 | Arranging Coins | Easy | Binary Search | ~35 min | ✅ Solved | Aplicó binary search en rango numérico. Usó long para evitar overflow y comparó mid*(mid+1)/2 con n. Necesita reforzar intuición de la sumatoria triangular, pero implementó correctamente. |
 
 **Key Learnings:**
-- Overflow-safe division and modulo pattern is now automatic for numeric Binary Search.
-- Rotated array template memorized: detect sorted half first, then apply range check.
-- Evening focus works even after difficult days.
+- La suma de las primeras k filas es k*(k+1)/2; comparar contra n guía el binary search.
+- Usar long evita overflow al multiplicar grandes mid.
+- Incluso con prisa, el razonamiento puede completarse si aseguras el bloque de tiempo.
 
 **Wins:**
-- Bounced back immediately after Monday miss.
-- Both 5/10 problems upgraded to 8/10 confidence.
-- No external help required; self-debugged issues quickly.
+- Aprovechó tiempo libre en la universidad en vez de procrastinar.
+- Nuevo problema añadido, acercándose a mastery de Binary Search.
+- Identificó debilidad conceptual (intuir la fórmula) para repasar luego con calma.
 
-**Updated Self-Assessment (Binary Search):**
-- 8-9/10: #704, #35, #69, #367
-- 7-8/10: #278, #34, #33
-- Remaining tasks: finish 1-2 new Binary Search problems this week, then move to Trees.
+**Areas to Revisit:**
+- Reforzar intuición de sumatoria triangular cuando tenga más tiempo/descanso.
 
 ---
 
-#### Tuesday, November 11, 2025 (Session 2)
-**Session Time:** ~45 min (10:10 AM - 10:55 AM)  
-**Pattern Focus:** Binary Search (numeric)
+#### Thursday, November 13, 2025
+**Session Time:** ~1 hour  
+**Pattern Focus:** Binary Search (rotated array - minimum search)
+
+| # | Problem | Difficulty | Pattern | Time | Status | Notes |
+|---|---------|------------|---------|------|--------|-------|
+| 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search | ~60 min | ✅ Solved | Desafiante Medium. Similar a #33 pero buscando mínimo en vez de target. Necesitó hints progresivos pero implementó la solución final correctamente. Aprendió: comparar con nums[high] en vez de nums[low], usar while(left < right) y right = mid (no mid-1). Demostró persistencia a pesar de frustración inicial. |
+
+**Key Learnings:**
+- Para encontrar mínimo en rotated array: comparar nums[mid] con nums[right]
+- Si nums[mid] > nums[right]: mínimo en derecha → left = mid + 1
+- Si nums[mid] <= nums[right]: mínimo en izquierda o mid → right = mid (no mid-1)
+- Diferencia crítica: while(left < right) para cuando right = mid
+- Persistencia después de múltiples intentos lleva a solución correcta
+
+**Wins:**
+- No se rindió después de frustración inicial
+- Implementó solución correcta después de hints progresivos
+- Entendió por qué right = mid en vez de mid-1 (crítico)
+- Binary Search mastery casi completa (9 problemas total)
+
+**Frustration Check:**
+- Expresó sentir que "binary search es mucho para mí"
+- Realidad: semana 2 de aprendizaje, es normal necesitar hints
+- Progress real: 8→9 problemas, persistencia demostrada
+- Plan: análisis profundo de cada problema a partir de mañana
+
+**Commitment Made:**
+- A partir de mañana: análisis profundo de cada problema resuelto
 
 | # | Problem | Difficulty | Pattern | Time | Status | Notes |
 |---|---------|------------|---------|------|--------|-------|
@@ -283,8 +306,8 @@
 - Hash Tables (basic lookup/counting)
 - Two Pointers (basic)
 
-### 🔄 Learning (Started, need more practice)
-- **Binary Search** - 8 problems (5 Easy including numeric variants, 2 Medium validados, 1 rotated array dominado), need 0-2 más para cerrar mastery
+### ✅ Mastered (Can solve variations independently)
+- **Binary Search** - 9 problems (5 Easy including numeric variants, 4 Medium with rotated array variations). MASTERY COMPLETE - all core patterns covered. Ready for spaced repetition to solidify long-term retention.
 
 ### ❌ Not Started (CRITICAL to address)
 - **Trees** - 0 problems (URGENT: ~40% of FAANG interviews)
@@ -305,6 +328,7 @@
 | Week | Start Date | Problems | Hours | Patterns Covered | Notes |
 |------|------------|----------|-------|------------------|-------|
 | 1 | Oct 31 | 7 | ~7.5 | Binary Search (new) | Strong week: 2 Mediums solved, 1 re-validated multiple times. Mid-week consistency issues but strong recovery. Binary Search pattern nearly mastered. Early morning practice working well. |
+| 2 | Nov 7 | 3 (so far) | ~3.5 | Binary Search (mastery) | Binary Search mastery completed with #153. Consistency improving (2 days streak). Ready for Trees transition. Commitment: deep analysis of each problem starting tomorrow. |
 
 ---
 
@@ -315,8 +339,8 @@
 - [ ] 50 total problems (16 to go)
 - [x] First Medium Binary Search problem (#33 - multiple validations)
 - [x] Second Medium Binary Search problem (#34)
-- [ ] Start Trees (URGENT - this week)
-- [ ] 10 Binary Search problems (pattern mastery - 7/10 done, very close)
+- [x] Binary Search mastery complete (9 problems, all core variations)
+- [ ] Start Trees (URGENT - this week, next priority)
 
 ### ✅ Completed Milestones
 - [x] Started tracking progress (Oct 31, 2025)
