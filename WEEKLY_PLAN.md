@@ -168,7 +168,7 @@
 
 ---
 
-#### [Día Actual] (COMPLETED - TRANSITION TO TREES)
+#### Tuesday (COMPLETED - TRANSITION TO TREES)
 **Time:** ~51 min (5:09 PM - 6:00 PM)  
 **Focus:** Binary Search re-validation + Trees fundamentals (LeetCode Explore)
 
@@ -185,6 +185,28 @@
 - **Next:** Aplicar lo aprendido resolviendo #104 - Maximum Depth of Binary Tree
 
 **Result:** Progreso válido. Fundamento aprendido correctamente antes de problemas. Listo para aplicar mañana.
+
+---
+
+#### Wednesday, Nov 19 (COMPLETED - RECURSION WARMUP)
+**Time:** ~30-40 min (10:13 AM)  
+**Focus:** Recursion fundamentals (calentamiento para Trees)
+
+**Done:**
+- [x] #509 - Fibonacci Number (Easy) - ~20-25 min
+- [x] Resolvió correctamente con guía socrática
+- [x] Entendió casos base (n == 0, n == 1)
+- [x] Dominó patrón recursivo: fib(n) = fib(n-1) + fib(n-2)
+- [ ] Pendiente: Ver tutorial de recursión para consolidar al 100%
+
+**Notes:**
+- Sesión de mañana aprovechada bien
+- Calentó con recursión antes de Trees (estrategia inteligente)
+- Resolvió Fibonacci con mínima ayuda, demostró comprensión del patrón
+- Identificó errores lógicos por sí mismo (&& vs ||, casos base)
+- Plan: Ver tutorial después para consolidar conceptos
+
+**Result:** Buen calentamiento. Recursión clara para Trees. Pendiente tutorial para maestría total. Listo para continuar con Explore de Trees y luego #104.
 
 ---
 
