@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1acca93e-2920-4b38-8ea2-0f7c51994990" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/algorithms/problems/ConvertaANumberToHexadecimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +110,7 @@
       <workItem from="1761581071627" duration="60000" />
       <workItem from="1761696462524" duration="1047000" />
       <workItem from="1761797695170" duration="3000" />
+      <workItem from="1763403555641" duration="8000" />
     </task>
     <servers />
   </component>

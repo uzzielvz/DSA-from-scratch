@@ -168,6 +168,26 @@
 
 ---
 
+#### [Día Actual] (COMPLETED - TRANSITION TO TREES)
+**Time:** ~51 min (5:09 PM - 6:00 PM)  
+**Focus:** Binary Search re-validation + Trees fundamentals (LeetCode Explore)
+
+**Done:**
+- [x] #35 - Search Insert Position (re-validation) - 7 min
+- [x] LeetCode Explore: Tree traversal fundamentals
+- [x] Entendió conceptos básicos: Preorder, Inorder, Postorder
+
+**Notes:**
+- Sesión de reactivación después de días duros (ritmo perdido pero no se rindió)
+- Calentamiento con Binary Search rápido (7 min) - recuperó confianza
+- Inició aprendizaje de Trees con LeetCode Explore en lugar de saltar directo a problemas
+- No resolvió problema de Trees pero aprendió fundamentos clave
+- **Next:** Aplicar lo aprendido resolviendo #104 - Maximum Depth of Binary Tree
+
+**Result:** Progreso válido. Fundamento aprendido correctamente antes de problemas. Listo para aplicar mañana.
+
+---
+
 ### Week 1 Success Criteria
 
 **Must Complete:**
