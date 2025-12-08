@@ -218,6 +218,53 @@
 
 ---
 
+#### Nov 20-29, 2025 (BREAK - SCHOOL PRIORITY)
+**Status:** ⏸️ Pausa por compromisos escolares
+**Reason:** Prioridades académicas
+**Attitude:** Sin excusas, listo para retomar 💪
+
+---
+
+#### Saturday, November 30, 2025 (REACTIVATION DAY)
+**Time:** TBD  
+**Status:** 🔄 Listo para retomar
+**Focus:** Reactivación suave → Trees
+
+**Plan:**
+- [ ] Calentamiento: Re-validar #509 Fibonacci (5-10 min)
+- [ ] Tutorial NeetCode: Binary Trees fundamentals (30-40 min)
+- [ ] LeetCode Explore: Trees (completar) (20-30 min)
+- [ ] Problema: #104 - Maximum Depth of Binary Tree (30-40 min)
+
+**Notes:**
+- 11 días sin práctica (Nov 19 → Nov 30)
+- Necesita reactivación suave pero estructurada
+- Estrategia probada: Tutorial NeetCode primero funciona
+- Base sólida: Recursión dominada, Binary Search mastery completo
+
+---
+
+#### Saturday, December 7, 2025 (REACTIVATION SESSION 1)
+**Time:** ~30-40 min  
+**Status:** ✅ Completado
+**Focus:** Reactivación - Recuperar ritmo
+
+**Done:**
+- [x] #509 - Fibonacci (re-validation) - ~5 min
+- [x] #704 - Binary Search (re-validation) - ~10 min
+- [x] Código correcto, template fresco en memoria
+- [ ] Tutorial NeetCode Binary Search (próximo paso)
+
+**Notes:**
+- 18 días sin práctica (Nov 19 → Dec 7) - break largo pero sin excusas
+- Reactivación efectiva: resolvió ambos problemas rápidamente
+- Estrategia mantenida: Tutorial NeetCode después para profundizar
+- Siguiente: Tutorial NeetCode → Trees fundamentals
+
+**Result:** Momentum recuperado. Base sólida confirmada. Listo para continuar con Trees.
+
+---
+
 ### Week 1 Success Criteria
 
 **Must Complete:**
