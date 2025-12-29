@@ -334,6 +334,38 @@
 
 ---
 
+#### Thursday, December 26, 2025 (STRONG SESSION)
+**Time:** ~2-2.5 hours  
+**Status:** ✅ Completado - Sesión productiva
+**Focus:** Reactivación + primer problema roadmap + course progress
+
+**LeetCode Done:**
+- [x] #217 - Contains Duplicate (Easy) - 16 min ⚡
+- [x] Solución con HashSet (O(n) tiempo, O(n) espacio)
+- [x] Análisis de alternativa con sorting
+- [x] Documentación completa para repo
+
+**Coursera Done:**
+- [x] UC San Diego Course 1 - Algorithmic Toolbox
+- [x] Week 1: APlusB assignment completado
+- [x] Module 1: Programming Challenges - **7/17 recursos completados** (41% progress)
+
+**Notes:**
+- Excelente tiempo: 16 min para primer problema del roadmap
+- Implementación limpia usando HashSet.add() return value
+- Comprensión clara de trade-offs (HashSet vs Sorting)
+- Buen progreso en el curso: casi mitad del módulo 1 completado
+- Estructura creada para asignaciones del curso
+- Plan híbrido funcionando bien
+
+**Result:** Momentum fuerte. Arrays & Hashing 1/9 ✅. Course 1 Module 1 progreso 41% (7/17). Excelente primera sesión del plan nuevo.
+
+**Next:** 
+- LeetCode: Siguiente problema Arrays & Hashing
+- Course: Completar Module 1 (10/17 recursos restantes)
+
+---
+
 ### Week 1 Success Criteria
 
 **Must Complete:**
