@@ -64,3 +64,23 @@ java APlusB
 
 **Date Started:** December 26, 2025
 
+---
+
+## Module 1 Progress: Programming Challenges
+
+**Progress:** 7/17 recursos completados (41%)
+
+**Completed:**
+- Introduction to programming challenges
+- Sum of two digits (APlusB assignment)
+- Basic workflow and submission process
+- (otros recursos del módulo)
+
+**Remaining:** 10/17 recursos (59%)
+
+**Next:** Completar módulo 1 antes de avanzar a problemas más complejos
+
+---
+
+**Last Updated:** December 26, 2025
+
