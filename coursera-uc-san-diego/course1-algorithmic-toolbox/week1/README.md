@@ -15,7 +15,7 @@ Esta semana introduce el proceso de:
 ### 1. A Plus B
 **File:** `APlusB.java`  
 **Difficulty:** Warmup  
-**Status:** ⏳ In Progress
+**Status:** ✅ Completed (Dec 26, 2025)
 
 **Description:** Lee dos enteros y devuelve su suma.
 
