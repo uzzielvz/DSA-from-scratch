@@ -50,6 +50,14 @@ DSA-from-scratch/
 │   └── problems/
 │       └── ValidParentheses.java
 │
+├── coursera-uc-san-diego/     # 📚 UC San Diego course assignments
+│   ├── course1-algorithmic-toolbox/
+│   ├── course2-data-structures/
+│   ├── course3-graphs/
+│   ├── course4-strings/
+│   ├── course5-advanced/
+│   └── course6-genome-assembly/
+│
 ├── lib/                        # Testing utilities
 │   ├── hamcrest-core-1.3.jar
 │   └── junit-4.13.2.jar
@@ -62,9 +70,11 @@ DSA-from-scratch/
 
 ## 🚀 Current Focus
 
-**Week 2 (Nov 7-13):** Binary Search mastery complete + transition  
-**Progress:** 9 Binary Search problems (MASTERY COMPLETE ✅)  
-**Next Up:** Start Trees (this week), deep analysis of each problem from tomorrow
+**Current Phase (Dec 26, 2025+):** Hybrid approach  
+**Strategy:** UC San Diego DSA course + 1-2 LeetCode problems daily  
+**LeetCode:** Following NeetCode roadmap (Arrays & Hashing → Trees → DP)  
+**Course:** Coursera UC San Diego Data Structures and Algorithms Specialization  
+**Target:** Jun 2026 ready for FAANG internship applications
 
 ## 📚 Documentation
 

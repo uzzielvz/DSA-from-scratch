@@ -253,15 +253,84 @@
 - [x] #509 - Fibonacci (re-validation) - ~5 min
 - [x] #704 - Binary Search (re-validation) - ~10 min
 - [x] Código correcto, template fresco en memoria
-- [ ] Tutorial NeetCode Binary Search (próximo paso)
+- [x] Tutorial NeetCode Binary Search (profundización)
 
 **Notes:**
 - 18 días sin práctica (Nov 19 → Dec 7) - break largo pero sin excusas
 - Reactivación efectiva: resolvió ambos problemas rápidamente
 - Estrategia mantenida: Tutorial NeetCode después para profundizar
-- Siguiente: Tutorial NeetCode → Trees fundamentals
 
-**Result:** Momentum recuperado. Base sólida confirmada. Listo para continuar con Trees.
+**Result:** Momentum recuperado. Base sólida confirmada.
+
+---
+
+#### Dec 8-25, 2025 (BREAK - PERSONAL)
+**Status:** ⏸️ Pausa por cuestiones personales
+
+---
+
+#### Thursday, December 26, 2025 (RESTRUCTURING + NEW PLAN)
+**Time:** Planning session  
+**Status:** 🔄 Reestructuración completa
+**Focus:** Plan realista de 6 meses para internship 2026
+
+**Decisiones clave:**
+- [x] Reestructuración de timeline completo
+- [x] Meta ajustada: 100-120 problemas para Jun 2026
+- [x] Estrategia: NeetCode roadmap completo (previos a Trees primero)
+- [x] Plan: Arrays & Hashing → Two Pointers → Sliding Window → Stack → Binary Search → Linked List → Trees → resto
+
+**New Strategy:**
+- Seguir NeetCode roadmap en orden
+- Video primero, intentar después
+- Método socrático para dudas
+- Si hay gaps, retroceder y reforzar
+
+**Timeline:**
+- Fase 1 (4-6 semanas): Completar patrones previos a Trees (~45 problemas)
+- Fase 2+: Trees y patrones avanzados siguiendo roadmap
+- Target: Jun 2026 preparado para aplicaciones
+
+**Next:** Empezar Arrays & Hashing (primeros problemas del roadmap)
+
+**New Hybrid Plan:**
+- **LeetCode:** 1-2 problemas diarios siguiendo NeetCode roadmap
+- **Course:** UC San Diego DSA Specialization en paralelo
+- **Time commitment:** 1-2 hrs diarios total
+- **Target:** 100-120 LeetCode problemas + curso completo para Jun 2026
+
+---
+
+## Current Plan (Dec 26, 2025 - Jun 2026)
+
+### Hybrid Approach: Course + Practice
+
+**Daily routine:**
+- Morning/Evening: 1-2 LeetCode problems (30-60 min)
+- Rest of time: UC San Diego course assignments (30-60 min)
+- Total: 1-2 hours daily
+
+**LeetCode progression (NeetCode roadmap):**
+1. Arrays & Hashing (9 problems) — Starting Dec 27
+2. Two Pointers (5 problems)
+3. Sliding Window (6 problems)
+4. Stack (7 problems)
+5. Binary Search (7 problems - reinforcement)
+6. Linked List (11 problems)
+7. Trees → Graphs → DP → etc.
+
+**Course progression:**
+1. Course 1: Algorithmic Toolbox
+2. Course 2: Data Structures
+3. Course 3: Algorithms on Graphs
+4. Course 4-6: As time permits
+
+**Expected timeline:**
+- Weeks 1-10: Course heavy + 2-3 LeetCode/week (~20-30 problems)
+- Weeks 11-24: LeetCode intensive + course completion (~70-90 problems)
+- Total: 100-120 problems + strong theoretical foundation
+
+**Next session:** Dec 27 - Start with Contains Duplicate (#217)
 
 ---
 
