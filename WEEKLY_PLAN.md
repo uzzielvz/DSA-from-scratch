@@ -366,6 +366,38 @@
 
 ---
 
+#### Dec 27, 2025 - Jan 4, 2026 (BREAK)
+**Status:** ⏸️ Pausa (inconsistencia)
+**Reality check:** Tercer ciclo de reactivación. Consistencia = problema principal.
+
+---
+
+#### Sunday, January 5, 2026 (REACTIVATION #3)
+**Time:** ~45 min  
+**Status:** ✅ Completado
+**Focus:** Reactivación + segundo problema roadmap
+
+**Done:**
+- [x] #217 - Contains Duplicate (re-validation) - calentamiento
+- [x] #242 - Valid Anagram (Easy) - ~30-35 min
+- [x] Solución con HashMap (+1/-1 technique)
+- [x] Análisis de alternativas (sorting, array[26])
+- [x] Trade-offs de complejidad discutidos
+
+**Notes:**
+- 10 días de break (Dec 26 → Jan 5)
+- Tercer ciclo de reactivación (Nov 19, Dec 7, Jan 5)
+- Implementación correcta con HashMap
+- Entendió +1/-1 cancellation technique
+- Identificó error: Quicksort es O(n log n), no O(log n)
+- Comprensión clara de HashMap vs array[26] trade-offs
+
+**Result:** Arrays & Hashing 2/9 ✅. Problema principal: inconsistencia, no nivel técnico.
+
+**Critical:** Necesita "no zero days" - mínimo 10-20 min diarios para mantener momentum.
+
+---
+
 ### Week 1 Success Criteria
 
 **Must Complete:**
