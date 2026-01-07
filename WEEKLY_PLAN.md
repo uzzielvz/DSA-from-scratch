@@ -398,6 +398,33 @@
 
 ---
 
+#### Monday, January 6, 2026 (MISSED)
+**Status:** ❌ No practice
+
+---
+
+#### Tuesday, January 7, 2026 (RECOVERY)
+**Time:** ~20-25 min  
+**Status:** ✅ Completado (sesión corta)
+**Focus:** Recuperación después de 1 día fallado
+
+**Done:**
+- [x] #1 - Two Sum (Easy) - ~20 min
+- [x] HashMap one-pass approach
+- [x] Complement lookup technique
+
+**Notes:**
+- Regresó después de fallar 1 día
+- Sesión corta pero cumplió compromiso mínimo
+- Solución correcta con HashMap
+- Entendió por qué almacenar DESPUÉS de buscar complement
+
+**Result:** Arrays & Hashing 3/9 ✅. Streak recuperado (2 días con 1 fallado).
+
+**Next:** #49 - Group Anagrams (siguiente del roadmap)
+
+---
+
 ### Week 1 Success Criteria
 
 **Must Complete:**
