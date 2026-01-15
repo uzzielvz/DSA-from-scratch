@@ -456,6 +456,35 @@
 
 ---
 
+#### Monday, January 13, 2026 (FAILED)
+**Status:** ❌ No practice - compromiso de 7 días roto
+
+---
+
+#### Wednesday, January 14, 2026 (RECOVERY)
+**Time:** ~45-50 min  
+**Status:** ✅ Completado
+**Focus:** Recuperación después de 1 día fallado
+
+**Done:**
+- [x] #347 - Top K Frequent Elements (Medium) - ~40-45 min ⭐
+- [x] Bucket Sort approach con frequency array
+- [x] Solución O(n) tiempo y espacio
+- [x] Segundo Medium del roadmap
+
+**Notes:**
+- Falló Jan 13 - compromiso de 7 días seguidos roto
+- Regresó hoy y completó problema Medium
+- Implementación correcta: HashMap + Bucket Sort
+- Indexado por frecuencia, iteración desde atrás
+
+**Result:** Arrays & Hashing 5/9 ✅. Dos Mediums completados.
+**New goal:** Máximo 1-2 días fallados por semana (más realista que 7 seguidos).
+
+**Next:** #238 - Product of Array Except Self
+
+---
+
 ### Week 1 Success Criteria
 
 **Must Complete:**
