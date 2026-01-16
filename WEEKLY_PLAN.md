@@ -485,6 +485,30 @@
 
 ---
 
+#### Thursday, January 15, 2026 (COMPLETED)
+**Time:** ~30-40 min  
+**Status:** ✅ Completado
+**Focus:** Tercer día de práctica esta semana
+
+**Done:**
+- [x] #238 - Product of Array Except Self (Medium) - ~30-35 min ⭐
+- [x] Prefix/Suffix product approach
+- [x] O(n) tiempo, O(1) espacio (sin contar output)
+- [x] Tercer Medium del roadmap
+
+**Notes:**
+- Solución correcta con dos passes
+- Entendió concepto: prefix (izquierda) y suffix (derecha)
+- Implementación limpia sin espacio extra
+- Arrays & Hashing progresando bien
+
+**Result:** Arrays & Hashing 6/9 ✅. Tres Mediums completados.
+**Streak:** 3 días esta semana (Jan 12, 14, 15) - 1 fallado (Jan 13)
+
+**Next:** #36 - Valid Sudoku (siguiente del roadmap)
+
+---
+
 ### Week 1 Success Criteria
 
 **Must Complete:**
