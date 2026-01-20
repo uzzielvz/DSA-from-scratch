@@ -17,6 +17,36 @@ Esta semana introduce el proceso de:
 **Difficulty:** Warmup  
 **Status:** ✅ Completed (Dec 26, 2025)
 
+### 2. Maximum Pairwise Product
+**File:** `MaximumPairwiseProduct.java`  
+**Difficulty:** Easy  
+**Status:** ✅ Completed (Jan 19, 2026)
+
+**Description:** Find the maximum product of two distinct numbers in a sequence.
+
+**Input format:** 
+- First line: n (2 ≤ n ≤ 2×10^5)
+- Second line: n non-negative integers
+
+**Output format:** Maximum pairwise product
+
+**Key learning:** 
+- Find index of max1, then find index of max2 excluding index1
+- Prevents index1 == index2 bug
+- Use long to avoid overflow
+
+**Test cases:**
+- [1, 2] → 2 ✅
+- [2, 1] → 2 ✅
+- [1, 2, 3] → 6 ✅
+- [5, 5, 3] → 25 ✅
+
+**Testing:**
+```bash
+javac MaximumPairwiseProduct.java MaximumPairwiseProductTest.java
+java MaximumPairwiseProductTest
+```
+
 **Description:** Lee dos enteros y devuelve su suma.
 
 **Input format:** Dos enteros a y b en la misma línea (separados por espacio)  
