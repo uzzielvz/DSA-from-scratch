@@ -533,6 +533,36 @@
 
 ---
 
+#### Jan 20-21, 2026 (FAILED - 2 DAYS)
+**Status:** ❌❌ No practice - patrón de inconsistencia continúa
+
+---
+
+#### Wednesday, January 22, 2026 (REVALIDATION SESSION)
+**Time:** ~45-50 min  
+**Status:** ✅ Completado
+**Focus:** Re-validation de problemas no dominados
+
+**Done:**
+- [x] #347 - Top K Frequent Elements (re-validation) - dominio mejorado
+- [x] #49 - Group Anagrams (re-validation) - ~30-35 min
+- [x] Corregido: computeIfAbsent + add() encadenado
+- [x] Corregido: return usa 'res' no 'map'
+- [x] Comprensión mejorada de computeIfAbsent
+
+**Notes:**
+- 2 días fallados (Jan 20-21)
+- Estrategia de re-validation funcionando
+- Group Anagrams: aprendió computeIfAbsent correctamente
+- Dominio de ambos problemas aumentado
+
+**Result:** Re-validaciones exitosas. Comprensión mejorada.
+**Critical:** Necesita mantener consistencia - máximo 1 día fallado por semana.
+
+**Next:** Valid Sudoku (#36) o más re-validaciones
+
+---
+
 ### Week 1 Success Criteria
 
 **Must Complete:**
