@@ -114,3 +114,31 @@ java APlusB
 
 **Last Updated:** December 26, 2025
 
+---
+
+### 3. Greatest Common Divisor (GCD)
+**File:** `GDC.java` (en carpeta raíz course1)  
+**Difficulty:** Easy  
+**Status:** ✅ Completed (Jan 22, 2026)
+
+**Description:** Find GCD of two positive integers using Euclidean algorithm.
+
+**Algorithm:** Recursive Euclidean algorithm
+- gcd(a, b) = gcd(b, a % b) until b == 0
+- Time: O(log(min(a, b)))
+- Space: O(log(min(a, b))) for recursion
+
+**Key learning:** Euclidean algorithm for GCD calculation
+
+---
+
+## Course Progress
+
+**Overall Progress:** 21% (Jan 22, 2026)
+- Started: 14%
+- Current: 21%
+- Progress today: +7%
+
+**Current focus:** Studying logarithms (identified gap)
+
+**Last Updated:** January 22, 2026
