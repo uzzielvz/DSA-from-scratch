@@ -9,19 +9,19 @@
 
 ## Current Stats
 
-- **Total Problems Solved:** 41 / 250
-- **Current Streak:** 3 days (Jan 12, 14, 15 - missed Jan 13)
+- **Total Problems Solved:** 42 / 250
+- **Current Streak:** 1 day (Jan 26 - reactivation after 3 days break)
 - **Longest Streak:** 5 days (Oct 31 - Nov 4)
 - **Average Problems/Week:** ~4-5 (adjusted for new hybrid plan)
 - **Total Hours Invested:** ~12 hours (tracking started Oct 31)
 
 ### By Difficulty
 - **Easy:** 31
-- **Medium:** 6 (NeetCode roadmap Medium started)
+- **Medium:** 7 (NeetCode roadmap: 4 Mediums completed)
 - **Hard:** 0
 
 ### By Pattern
-- **Arrays/Strings:** 13 (Arrays & Hashing - NeetCode roadmap: 6/9)
+- **Arrays/Strings:** 14 (Arrays & Hashing - NeetCode roadmap: 7/9)
 - **Hash Tables:** 7
 - **Two Pointers:** 4
 - **Binary Search:** 9 ✅ (MASTERY COMPLETE - Started Oct 31, all core variations covered)
