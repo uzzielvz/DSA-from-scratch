@@ -563,6 +563,36 @@
 
 ---
 
+#### Jan 23-25, 2026 (BREAK - BUSINESS)
+**Status:** ⏸️ 3 días sin práctica (negocio de ropa)
+**Commitment:** En días ocupados, hacer repaso rápido (10-15 min) para mantener hábito
+
+---
+
+#### Monday, January 26, 2026 (REACTIVATION)
+**Time:** ~30-40 min  
+**Status:** ✅ Completado (sesión corta)
+**Focus:** Reactivación después de 3 días sin práctica
+
+**Done:**
+- [x] #36 - Valid Sudoku (Medium) - ~30-35 min ⭐
+- [x] Solución con HashMap para rows, columns, squares
+- [x] Fórmula de square: (r/3)*3 + c/3
+- [x] Código funcional pero necesita optimización
+
+**Notes:**
+- 3 días sin práctica (Jan 23-25) por negocio
+- Compromiso: repasos rápidos (10-15 min) en días ocupados
+- Valid Sudoku: primera implementación funcional
+- Identificó que necesita más dominio
+- Pendiente: optimizar código (computeIfAbsent llamado múltiples veces)
+- Pendiente: entender mejor fórmula de square
+
+**Result:** Arrays & Hashing 7/9 ✅. Reactivación exitosa. 
+**Next:** Mañana re-hacer Valid Sudoku con más tiempo para optimizar y dominar.
+
+---
+
 #### Wednesday, January 22, 2026 (FULL SESSION - UPDATED)
 **Time:** ~2-2.5 hours  
 **Status:** ✅ Completado - Sesión productiva completa
