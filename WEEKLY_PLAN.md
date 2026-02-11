@@ -593,6 +593,32 @@
 
 ---
 
+#### Jan 27-28, 2026 (BREAK - DISCIPLINE)
+**Status:** ⏸️ 2 días sin práctica (caída en disciplina)
+**Notes:** Identificó detonadores y acciones correctivas. Reorganizó prioridades. Retomo desde estructura, no culpa.
+
+---
+
+#### Wednesday, January 29, 2026 (STUDY SESSION)
+**Time:** ~1-1.5 hours (hasta ~1:18 AM)  
+**Status:** ✅ Completado (solo teoría)
+**Focus:** Cerrar gap de logaritmos (Coursera UC San Diego blocker)
+
+**Done:**
+- [x] Estudio de logaritmos - laguna cubierta
+- [ ] LeetCode: no (hora avanzada)
+
+**Notes:**
+- Retomo después de 2 días de break
+- Priorizó cerrar gap que lo traba en Coursera
+- No zero day: trabajo de estudio cuenta
+- Mañana: LeetCode primero (Valid Sudoku o re-validation Easy) + aplicar logaritmos en curso
+
+**Result:** Gap de logaritmos cubierto. Listo para avanzar en Coursera.
+**Next:** Jan 30 - LeetCode + Coursera con base de logaritmos fresca.
+
+---
+
 #### Wednesday, January 22, 2026 (FULL SESSION - UPDATED)
 **Time:** ~2-2.5 hours  
 **Status:** ✅ Completado - Sesión productiva completa
