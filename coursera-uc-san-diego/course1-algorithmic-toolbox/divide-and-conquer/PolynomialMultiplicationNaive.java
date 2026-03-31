@@ -22,7 +22,13 @@ public class PolynomialMultiplicationNaive {
     public static long[] multiply(int[] A, int[] B, int n) {
         // TODO: implementar algoritmo naive: C[k] = sum_{i+j=k} A[i]*B[j]
         // Resultado: array de longitud 2*n - 1
-        throw new UnsupportedOperationException("TODO: implementar multiplicación naive de polinomios");
+        long[] product = new long[2 * n - 1];
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                product[i + j] += (long) A[i] * B[j];
+            }
+        }
+        return product;
     }
 
     /** Prints polynomial as a_0 + a_1*x + a_2*x^2 + ... */
